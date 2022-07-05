@@ -1,5 +1,5 @@
 # 天选中奖自动推送
-
+``
 魔改自项目 https://github.com/paulzzh/BiliGuardsLite  
 
 首先需要在http://sc.ftqq.com/3.version   注册申请SCKEY
